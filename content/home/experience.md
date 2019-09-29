@@ -38,6 +38,10 @@ date_format = "Jan 2006"
   location = "Sonoma State University"
   date_start = "2017-08-01"
   date_end = "2019-05-20"
-  description = """Lead cognitive neuroscience studies and analyzed complex datasets."""
+  description = """
+  Responsibilities included:
+  
+  * Lead cognitive neuroscience studies
+  * Analyzed complex datasets"""
 
 +++
