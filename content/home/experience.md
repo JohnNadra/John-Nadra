@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities included:
   
-  * Lead cognitive neuroscience studies
-  * Analyzed complex datasets"""
+  * Leading cognitive neuroscience studies
+  * Analyzing complex datasets"""
 
 +++
