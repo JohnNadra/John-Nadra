@@ -64,6 +64,6 @@ email: ""
 #- Visitors
 ---
 
-John Nadra is a graduate student working with [Dr. George Ron Mangun](https://mangunlab.faculty.ucdavis.edu) at the [Center for Mind and Brain](https://mindbrain.ucdavis.edu/) analyzing the neural mechanisms of attention in various capacities. Within this work, he is currently focused on investigating how self-generated momentary intentions in the absence of cues initiate voluntary attention orienting.
+John Nadra is a graduate student working with [Dr. George Ron Mangun](https://mangunlab.faculty.ucdavis.edu) at the [Center for Mind and Brain](https://mindbrain.ucdavis.edu/) analyzing the neural mechanisms of attention in various capacities. The research conducted at Mangun Laboratory utilizes EEG and fMRI, analyzing event related potentials, conducting spectral analysis, decoding, and machine learning methods. Within this work, he is currently focused on investigating how self-generated momentary intentions in the absence of cues initiate voluntary attention orienting.
 
 In his spare time, he enjoys playing video games, reading books and playing with his cat, Deku.
