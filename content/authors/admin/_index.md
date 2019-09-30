@@ -45,6 +45,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/john_nadra
 - icon: github
   icon_pack: fab
   link: https://github.com/JohnNadra
