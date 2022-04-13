@@ -30,6 +30,9 @@ education:
   - course: PhD in Psychology
     institution: University of California, Davis
     year: Ongoing
+  - course: MA in Psychology
+    institution: University of California, Davis
+    year: 2021
   - course: Bachelor of Arts in Psychology
     institution: Sonoma State University
     year: 2019
@@ -42,15 +45,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:john.nadra@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=BTwVXYEAAAAJ&hl=en&authuser=1
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/john_nadra
-- icon: github
-  icon_pack: fab
-  link: https://github.com/JohnNadra
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/JohnNadra
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
  - icon: cv
@@ -67,6 +70,6 @@ email: ""
 #- Visitors
 ---
 
-John Nadra is a graduate student working with [Dr. George Ron Mangun](https://mangunlab.faculty.ucdavis.edu) at the [Center for Mind and Brain](https://mindbrain.ucdavis.edu/) analyzing the neural mechanisms of attention in various capacities. The research conducted at Mangun Laboratory utilizes EEG and fMRI to analyze event related potentials and BOLD signals, conduct spectral analysis, decode neural oscillations, and employ machine learning methods. Within this work, he is currently focused on investigating how self-generated momentary intentions in the absence of cues initiate voluntary attention orienting.
+John Nadra is a graduate student working with [Dr. George Ron Mangun](https://mangunlab.ucdavis.edu) at the [Center for Mind and Brain](https://mindbrain.ucdavis.edu/) analyzing the neural mechanisms of attention in various capacities. The research conducted at Mangun Laboratory utilizes EEG and fMRI to analyze event related potentials and BOLD signals, conduct spectral analysis, decode neural oscillations, and employ machine learning methods. Within this work, he is currently focused on investigating how self-generated momentary intentions in the absence of cues initiate voluntary attention orienting.
 
 In his spare time, he enjoys playing video games, reading books and playing with his cat, Deku.
