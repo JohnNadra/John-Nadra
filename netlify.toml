@@ -1,12 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-[build]
-  command = "hugo"
-  publish = "public"
-
-=======
->>>>>>> 377ddae9b19c27864dc41431e0b2953d39dbf0eb
-=======
->>>>>>> 377ddae9b19c27864dc41431e0b2953d39dbf0eb
 [build.environment]
   HUGO_VERSION = "0.58.3"
