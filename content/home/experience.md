@@ -27,8 +27,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analyzing data
+  * Analyzing behavioral, EEG and fMRI data
   * Crafting experiments
+  * Implementing research studies utilizing machine learning
+  * Leading and mentoring a team of research assistants
   """
 
 [[experience]]
