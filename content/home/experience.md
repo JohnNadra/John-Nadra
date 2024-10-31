@@ -18,19 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Postdoctoral Scholar"
+  company = "Laboratory for Neural Mechanisms of Attention"
+  company_url = ""
+  location = "University of California, Davis"
+  date_start = "2024-09-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Collecting simultaneous EEG-fMRI data
+  * Writing grants
+  * Teaching courses in Psychology
+  * Leading and mentoring a team of undergraduate researchers
+  """
+
+[[experience]]
   title = "Graduate Student Researcher"
   company = "Laboratory for Neural Mechanisms of Attention"
   company_url = ""
   location = "University of California, Davis"
   date_start = "2019-07-01"
-  date_end = ""
+  date_end = "2024-09-01"
   description = """
   Responsibilities include:
   
   * Analyzing behavioral, EEG and fMRI data
   * Crafting experiments
   * Implementing research studies utilizing machine learning
-  * Leading and mentoring a team of research assistants
+  * Mentoring a team of research assistants
   """
 
 [[experience]]
