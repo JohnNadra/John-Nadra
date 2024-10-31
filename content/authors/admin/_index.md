@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
@@ -24,12 +24,13 @@ interests:
 - Cognitive Neuroscience
 - Attention
 - Consciousness
+- Free Will
 
 education:
   courses:
   - course: PhD in Psychology
     institution: University of California, Davis
-    year: Ongoing
+    year: 2024
   - course: MA in Psychology
     institution: University of California, Davis
     year: 2021
